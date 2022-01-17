@@ -1,0 +1,16 @@
+main.c:216:5:main	16	static
+main.c:333:6:SystemClock_Config	88	static
+main.c:373:13:MX_TIM1_Init	80	static
+main.c:442:13:MX_TIM2_Init	48	static
+main.c:491:13:MX_TIM3_Init	48	static
+main.c:552:13:MX_USART2_UART_Init	8	static
+main.c:585:13:MX_USART6_UART_Init	8	static
+main.c:618:13:MX_GPIO_Init	48	static
+main.c:701:6:HAL_GPIO_EXTI_Callback	552	static
+main.c:1031:6:display_lcd	24	static
+main.c:1056:6:motor_forward	24	static
+main.c:1074:6:motor_reverse	24	static
+main.c:1090:6:motor_off	4	static
+main.c:1103:10:get_microseconds	16	static
+main.c:1113:5:get_ultrasonic_inches	16	static
+main.c:1125:6:Error_Handler	4	static,ignoring_inline_asm
